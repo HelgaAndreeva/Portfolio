@@ -87,7 +87,7 @@ body {
   height: 100vh;
   min-height: 768px;
   color: #fff;
-  background-image: url(./img/bg-header.jpg);
+  background-image: url(../img/bg-header.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -342,7 +342,7 @@ body {
 }
 
 .contact-top {
-  background-image: url(./img/bg-contact.jpg);
+  background-image: url(../img/bg-contact.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
